@@ -1,7 +1,7 @@
 // Daniel Avalos, 2018
 // Lab 2, WIP
 // Traduct Order quantity to pre-tax total, using const software price and discount table
-
+//
 
 #include <iostream>
 #include <cctype>

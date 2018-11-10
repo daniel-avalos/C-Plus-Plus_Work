@@ -1,6 +1,6 @@
 // Daniel Avalos, 2018
 // Lab Exercise 14, completed
-// Calculates player height from raw inches to ft/in
+// Calculates player height from raw inches to ft/in //
 
 #include <iostream>
 using namespace std;

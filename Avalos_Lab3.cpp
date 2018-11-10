@@ -1,6 +1,5 @@
 // Daniel Avalos, Oct 2018
 // Lab 3 complete
-//
 // Gather sales figures for 4 districts (w/ input validation)
 // Determine highest grossing division
 

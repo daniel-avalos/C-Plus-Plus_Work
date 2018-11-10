@@ -1,6 +1,6 @@
 // Daniel Avalos, 2018
 // Lab Exercise 13, Completed
-// Calculates pay cheque amounts for bi-weekly and bi-monthly
+// Calculates pay cheque amounts for bi-weekly and bi-monthly //
 
 #include <iostream>
 #include <iomanip>

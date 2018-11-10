@@ -1,7 +1,7 @@
 // Daniel Avalos, 2018
 // Lab 4 - Classes, Completed
 // Given population, number of births, and number of deaths,
-//  calculates and displays the birthrate and deathrate
+// Calculates and displays the birthrate and deathrate
 
 
 #include <iostream> // std::cout, std::cin, std::string, std::right

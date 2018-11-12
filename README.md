@@ -11,6 +11,6 @@ Lab3 - Basic input validadation, greatest val (no array usage)
 
 Lab4 - Classes (Constructors, Setters, Getters)
 
-Lab5 - Min/Max, array pointer passing
+Lab5 - Min/Max vals, array pointer passing
 
-Lab6 - Array Sorting (Linear and Binary Tree)
+Lab6 - Array Sorting (Bubble and Selection Sorting), Classes, self adj tables

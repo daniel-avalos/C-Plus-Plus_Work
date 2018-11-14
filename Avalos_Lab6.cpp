@@ -10,7 +10,7 @@
 #include <iostream>     // ::cout, cin,
 #include <iomanip>      // ::stringstream, width, left
 #include <chrono>       // ::high_resolution_clock, time_point, now, duration_cast
-#include <sstream>		// ::stringstream legacy header (C++11)
+#include <sstream>		// ::stringstream legacy header (C++11 compatability)
 using namespace std;
 
 class Playlist{

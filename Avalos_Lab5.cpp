@@ -1,5 +1,5 @@
 // Daniel Avalos, 2018
-// Lab 4 - Classes, Completed
+// Lab 5 - Classes, Completed
 // Given monthly water consumptions, displays table, min, max, avg, total //
 
 #include <iostream> // std::cout, std::cin, std::string, std::right
